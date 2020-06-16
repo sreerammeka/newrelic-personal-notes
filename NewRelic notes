@@ -1,0 +1,16 @@
+# New Relic Personal Notes
+
+
+New Relic Synthetics- only works in Google Chrome on Linux
+
+
+Synthetics can tell you about whether the latency is at end users side. (By checking difference from
+
+New Relic AI Ops- Automatic detection of anomalies.
+
+
+Key Transactions-
+
+The browser has a resource training API
+
+New Relic Flex integration tool: building customized integrations.
