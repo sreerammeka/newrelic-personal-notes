@@ -19,8 +19,11 @@ New Relic One platform- One platform
 
 Transactions
 
+
 Key Transactions- most critical endpoints important for the business such as login, payment, purchase confirmations etc
 
 Distributed Tracing
 
 Apdex T score: measure end user and app server performance on a scale of 0 to 1.
+
+New Relic Alerts
